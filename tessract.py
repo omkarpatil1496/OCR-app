@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/19TvRx8qbAy581LVqOypKd95K2QaO129Q
 """
 
-!pip install tesseract
+#!pip install tesseract
 
 import pytesseract
 import shutil
